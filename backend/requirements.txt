@@ -7,7 +7,7 @@ passlib[bcrypt]==1.7.4
 httpx==0.25.2
 aiohttp==3.9.1
 requests==2.31.0
-openai==1.6.1
+google-genai>=1.0.0
 python-dotenv==1.0.0
 numpy==1.26.3
 
